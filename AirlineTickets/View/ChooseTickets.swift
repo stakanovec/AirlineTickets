@@ -217,6 +217,3 @@ struct ChooseTickets: View {
     }
 }
 
-//#Preview {
-//    ChooseTicket()
-//}
